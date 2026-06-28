@@ -124,7 +124,8 @@ Menu option **2** se change kare:
 
 ## 🖼️ Screenshot
 
-![BadmoshGPT](assets/example.jpg)
+<img width="1768" height="704" alt="Screenshot From 2026-06-28 12-39-26" src="https://github.com/user-attachments/assets/f1e3f0dc-37b3-46a3-96bf-cf2ead7c1549" />
+
 
 ---
 
